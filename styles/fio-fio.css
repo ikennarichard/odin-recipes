@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(245, 222, 179, 0.555);
+    font-family: "Helvetica Neue",Helvetica;
+}
+
+h1{
+    text-align: center;
+    
+
+
+}
+
+img{
+    position: relative;
+   left: 300px;
+   box-shadow: 10px 0 10px rgba(0,0.42,0.45);
+}
